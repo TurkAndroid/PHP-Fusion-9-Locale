@@ -100,9 +100,9 @@ $locale['blog_0456'] = 'Bu kategoride hiç Blog yok.';
 $locale['blog_0457'] = "Lütfen anahtar kelimeleri belirtin";
 $locale['blog_0461'] = 'Tanımlanmış Blog Kategorileri Yok.';
 // Filters
-$locale['blog_0458'] = "Filter by:";
-$locale['blog_0459'] = "Filter show category by";
-$locale['blog_0460'] = "All Blog Entries";
+$locale['blog_0458'] = "Filitreleme:";
+$locale['blog_0459'] = "Kategori gösterimine göre filtreleme";
+$locale['blog_0460'] = "Tüm Blog Yazıları";
 //Alignment
 $locale['left'] = "Sol";
 $locale['center'] = "Merkez";
