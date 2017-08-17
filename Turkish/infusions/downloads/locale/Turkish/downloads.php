@@ -1,4 +1,7 @@
 <?php
+/**
+ * @Translated by MAxwELL_TR Web Site (https://alperperi.com)
+ */
 // Download File Information
 // v7.02.07 Çevirisinde "Download" kelimesi "Dosyalar" şeklinde çevirilmiştir. Bu çeviride "İndirme" kelimesi kulanılmıştır.  MAxwELL_TR
 $locale['download_1000'] = "İndirmeler";
