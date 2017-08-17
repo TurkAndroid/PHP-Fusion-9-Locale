@@ -1,4 +1,7 @@
 <?php
+/**
+ * @Translated by MAxwELL_TR Web Site (https://alperperi.com)
+ */
 $locale['article_0000'] = "Makaleler";
 $locale['article_0001'] = "Tüm Makaleler";
 $locale['article_0002'] = "Kategorileri Göster";
