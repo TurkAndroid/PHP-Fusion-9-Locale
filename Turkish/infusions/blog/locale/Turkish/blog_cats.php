@@ -1,4 +1,7 @@
 <?php
+/**
+ * @Translated by MAxwELL_TR Web Site (https://alperperi.com)
+ */
 $locale['400'] = "Blog Kategorileri";
 $locale['401'] = "Kategori:";
 $locale['402'] = "Öğe Sayısı:";
