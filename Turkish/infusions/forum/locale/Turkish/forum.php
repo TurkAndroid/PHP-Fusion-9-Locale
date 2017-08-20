@@ -1,6 +1,6 @@
 <?php
 /**
- * @Translated by ALTUN Web Site(https://alapelit.com)
+ * @Translated by MAxWELL_TR Web Site(https://alperperi.com)
  */
 $locale['error-DP001'] = "Silinecek forum mesajı yok.";
 $locale['error-MP000'] = "Forum mesajı taşıma - hata";
