@@ -1,10 +1,13 @@
 <?php
-$locale['rss_title'] = "RSS Feeds";
-$locale['rss_articles'] = "Articles";
+/**
+ * @Translated by MAxwELL_TR Web Site (https://alperperi.com)
+ */
+$locale['rss_title'] = "RSS Beslemeleri";
+$locale['rss_articles'] = "Makaleler";
 $locale['rss_blog'] = "Blog";
-$locale['rss_downloads'] = "Downloads";
-$locale['rss_forums'] = "Forums";
-$locale['rss_news'] = "News";
-$locale['rss_weblinks'] = "Web Links";
-$locale['rss_in'] = " in ";
-$locale['rss_nodata'] = "No RSS data available";
+$locale['rss_downloads'] = "İndirmeler";
+$locale['rss_forums'] = "Forumlar";
+$locale['rss_news'] = "Haberler";
+$locale['rss_weblinks'] = "Web Linkleri";
+$locale['rss_in'] = " içinde ";
+$locale['rss_nodata'] = "RSS kullanılabilir veri yok";
