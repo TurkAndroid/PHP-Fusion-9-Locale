@@ -1,6 +1,7 @@
 <?php
 /**
  * @Translated by mert25 Web Site http://amatorce.net/
+ */
 // Delete Image
 $locale['400'] = "Resim Sil";
 $locale['401'] = "Resim Silindi";
