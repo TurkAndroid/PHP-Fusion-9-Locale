@@ -1,6 +1,7 @@
 <?php
 /**
  * @Translated by mert25 Web Site http://amatorce.net/
+ */
 /* Buttons description */
 $locale['html_000'] = "Kalın";
 $locale['html_001'] = "İtalik";
