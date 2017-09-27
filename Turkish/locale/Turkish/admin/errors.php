@@ -1,4 +1,4 @@
-<?php<?php
+<?php
 /**
  * @Translated by mert25 Web Site http://amatorce.net/
  */// Titles
