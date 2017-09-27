@@ -1,10 +1,13 @@
 <?php
-$locale['BN_000'] = "Banners";
+/**
+ * @Translated by MAxWELL_TR Web Site(https://alperperi.com)
+ */
+$locale['BN_000'] = "Reklam afişi";
 
-$locale['BN_012'] = "Banner Updated in the database.";
-$locale['BN_013'] = "Banner deleted from the database.";
-$locale['BN_014'] = "Not Selected Banner.";
-$locale['BN_015'] = "Are you sure you want to delete this banner?";
+$locale['BN_012'] = "Reklam afişi veritabanı güncellendi.";
+$locale['BN_013'] = "Reklam afişi veritabanından silindi.";
+$locale['BN_014'] = "Reklam afişi seçilmedi.";
+$locale['BN_015'] = "Bu reklam afişini silmek istediğinize emin misiniz?";
 
-$locale['sitebanner1'] = "Banner 1";
-$locale['sitebanner2'] = "Banner 2";
+$locale['sitebanner1'] = "Reklam afişi 1";
+$locale['sitebanner2'] = "Reklam afişi 2";
